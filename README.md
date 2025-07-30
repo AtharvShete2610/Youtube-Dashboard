@@ -61,7 +61,7 @@ To explore and visualize YouTube channel performance across the globe using real
 
 - **Power BI Desktop**
 - **Power Query** for data transformation
-- **YouTube Creator Dataset** (with metrics: views, subscribers, earnings, engagement, etc.)
+- **YouTube Creator Dataset**
 
 ---
 
